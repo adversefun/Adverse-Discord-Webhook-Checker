@@ -1,0 +1,14 @@
+C:\Users\54264\source\repos\WebhookChecker\WebhookChecker\bin\Debug\net6.0\WebhookChecker.exe
+C:\Users\54264\source\repos\WebhookChecker\WebhookChecker\bin\Debug\net6.0\WebhookChecker.deps.json
+C:\Users\54264\source\repos\WebhookChecker\WebhookChecker\bin\Debug\net6.0\WebhookChecker.runtimeconfig.json
+C:\Users\54264\source\repos\WebhookChecker\WebhookChecker\bin\Debug\net6.0\WebhookChecker.dll
+C:\Users\54264\source\repos\WebhookChecker\WebhookChecker\bin\Debug\net6.0\ref\WebhookChecker.dll
+C:\Users\54264\source\repos\WebhookChecker\WebhookChecker\bin\Debug\net6.0\WebhookChecker.pdb
+C:\Users\54264\source\repos\WebhookChecker\WebhookChecker\obj\Debug\net6.0\WebhookChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54264\source\repos\WebhookChecker\WebhookChecker\obj\Debug\net6.0\WebhookChecker.AssemblyInfoInputs.cache
+C:\Users\54264\source\repos\WebhookChecker\WebhookChecker\obj\Debug\net6.0\WebhookChecker.AssemblyInfo.cs
+C:\Users\54264\source\repos\WebhookChecker\WebhookChecker\obj\Debug\net6.0\WebhookChecker.csproj.CoreCompileInputs.cache
+C:\Users\54264\source\repos\WebhookChecker\WebhookChecker\obj\Debug\net6.0\WebhookChecker.dll
+C:\Users\54264\source\repos\WebhookChecker\WebhookChecker\obj\Debug\net6.0\ref\WebhookChecker.dll
+C:\Users\54264\source\repos\WebhookChecker\WebhookChecker\obj\Debug\net6.0\WebhookChecker.pdb
+C:\Users\54264\source\repos\WebhookChecker\WebhookChecker\obj\Debug\net6.0\WebhookChecker.genruntimeconfig.cache
